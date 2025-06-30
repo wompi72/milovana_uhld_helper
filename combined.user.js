@@ -65,18 +65,7 @@
             POINTS_PENALTY_FOR_RO: 500,
             POINTS_PENALTY_FOR_LEAVING: 500,
             CHASTITY_PENALTY_FOR_LEAVING: 30,
-        },
-        Custom_Hard: {
-            CHASTITY_MAX_DEFAULT: 7,
-            PAUSE_AFTER_EDGE: 40,
-            PAUSE_AFTER_UNAUTHORIZED_EDGE: 45,
-            PAGES_UNTIL_PAUSE: 8,
-            PAUSE_DURATION_HOURS: 12,
-            PENALTY_FOR_RO: 1, // "Max",
-            POINTS_PENALTY_FOR_RO: 500,
-            POINTS_PENALTY_FOR_LEAVING: 300,
-            CHASTITY_PENALTY_FOR_LEAVING: 5,
-        },
+        }
     }
     // END SCRIPT DIFFERENCE BETWEEN 1 and 2: 33333333333333333333333333333333333333
 
