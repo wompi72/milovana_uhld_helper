@@ -4,7 +4,9 @@
 // @match       https://milovana.com/webteases/showtease.php?id=41749*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      wompi72
+// @updateURL    https://raw.githubusercontent.com/wompi72/milovana_uhld_helper/master/version2.user.js
+// @downloadURL  https://raw.githubusercontent.com/wompi72/milovana_uhld_helper/master/version2.user.js
 // @description All help utilities and stat tracking for Ultimate Hentai Lottery of Denial 2 on Milovana.com
 // ==/UserScript==
 
